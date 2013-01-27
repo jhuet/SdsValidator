@@ -1,5 +1,5 @@
 {
-    "name": "superdweebie/validator",
+    "name": "jhuet/sds-validator",
     "description": "Library of validators",
     "type": "library",
     "keywords": [],
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.3"
     },
 
     "autoload": {
