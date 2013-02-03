@@ -11,7 +11,9 @@
         }
     ],
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3",
+        "superdweebie/common": "dev-master",
+        "zendframework/zend-validator": "2.*"
     },
 
     "autoload": {
